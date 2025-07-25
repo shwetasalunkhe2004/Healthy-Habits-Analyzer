@@ -49,28 +49,45 @@ Screen Time and Height
 🧾 How much do people work based on job type?
 
 ## Key KPIs:
+
 ### KPI	Value:
 
 🧬 Average BP	110.40
+
 🎂 Average Age	48.51
+
 📱 Avg Screen Time	6.01 hours
+
 📏 Avg Height	170+ cm
+
 📈 Total Glucose & Insulin	By Healthcare Access
+
 💼 Work Hours by Job Type	Donut Chart
+
 📚 Age by Education Level	Column Chart
+
 👩‍⚕️ Job Count by Occupation	Bar Chart
+
 📊 Target Classification	Diseased vs. Healthy (Slicer)
 
 ## Dashboard Highlights:
 
 Insight	Visualization Type
+
 Healthcare access vs Alcohol consumption	Clustered Bar Chart
+
 Average BP, Age, Screen Time, Height	KPI Cards
+
 Glucose and Insulin Trend by Access	Line Chart
+
 Age by Education Level	Column Chart
+
 Heart Rate & Income by Diet	Matrix
+
 Work Hours by Job Type	Donut Chart
+
 Gender-wise Age Distribution	Slicer + Value Card
+
 Occupation Breakdown	Bar Chart
 
 ## Tools Used:
