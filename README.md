@@ -121,10 +121,8 @@ Cross-highlight visuals by clicking on charts for deep dive exploration.
 
  ## Dashboard Screenshot:
 
+https://github.com/shwetasalunkhe2004/Healthy-Habits-Analyzer/blob/main/Dshboardimg.png
  
-
-
-
 
 ## Insights & Conclusion:
 
